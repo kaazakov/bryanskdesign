@@ -1,0 +1,285 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anim.bryanskdesign.site" resolutions="1x" timestamp="1510262209457">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3771185006" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="playfairdisplayregular.woff" crc="84960981"/>
+    <file name="playfairdisplayregular.eot" crc="169932609"/>
+  </folder>
+  <folder name="assets">
+    <folder name="strategia">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1510239753000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3967224039" mt="1510239753000"/>
+        <file name="Poster.png" crc="3967224039" mt="1510239753000"/>
+        <file name="hand1.svg" crc="359460370" mt="1510239753000"/>
+        <file name="hand2.svg" crc="415258854" mt="1510239753000"/>
+        <file name="hand3.svg" crc="75057711" mt="1510239753000"/>
+        <file name="hand4.svg" crc="421857675" mt="1510239753000"/>
+        <file name="hand5.svg" crc="264810972" mt="1510239753000"/>
+      </folder>
+      <file name="strategia_edge.js" crc="232647722" mt="1510239753000"/>
+      <file name="strategia.html" crc="492948658" mt="1510239753000"/>
+    </folder>
+    <folder name="untitled-4">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1510239598000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="4104538854" mt="1510239598000"/>
+        <file name="Poster.png" crc="4104538854" mt="1510239598000"/>
+        <file name="1.svg" crc="4250422761" mt="1510239598000"/>
+        <file name="2.svg" crc="4221200176" mt="1510239598000"/>
+        <file name="21.svg" crc="195051379" mt="1510239598000"/>
+        <file name="22.svg" crc="467274125" mt="1510239598000"/>
+        <file name="23.svg" crc="3886845099" mt="1510239598000"/>
+        <file name="24.svg" crc="4016186474" mt="1510239598000"/>
+        <file name="25.svg" crc="474509164" mt="1510239598000"/>
+        <file name="3.svg" crc="4111441746" mt="1510239598000"/>
+        <file name="4.svg" crc="3964345391" mt="1510239598000"/>
+        <file name="5.svg" crc="326671608" mt="1510239598000"/>
+        <file name="6.svg" crc="96331095" mt="1510239598000"/>
+        <file name="click.svg" crc="4197692964" mt="1510239598000"/>
+        <file name="hand.svg" crc="40826957" mt="1510239598000"/>
+        <file name="konv.svg" crc="3848628992" mt="1510239598000"/>
+        <file name="m1.svg" crc="3974583468" mt="1510239598000"/>
+        <file name="m2.svg" crc="3860794631" mt="1510239598000"/>
+        <file name="m3.svg" crc="4224014865" mt="1510239598000"/>
+        <file name="m4.svg" crc="3802862541" mt="1510239598000"/>
+        <file name="m5.svg" crc="3973050676" mt="1510239598000"/>
+        <file name="m6.svg" crc="516963152" mt="1510239598000"/>
+        <file name="Pasted.svg" crc="285308519" mt="1510239598000"/>
+        <file name="Pasted2.svg" crc="264253633" mt="1510239598000"/>
+        <file name="Pasted3.svg" crc="217215537" mt="1510239598000"/>
+      </folder>
+      <file name="Untitled-4_edge.js" crc="3790019830" mt="1510239598000"/>
+      <file name="Untitled-4.html" crc="3801564008" mt="1510239598000"/>
+    </folder>
+    <folder name="untitled-23">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1510239452000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="16249728" mt="1510239452000"/>
+        <file name="Poster.png" crc="16249728" mt="1510239452000"/>
+        <file name="back.svg" crc="320025159" mt="1510239452000"/>
+        <file name="out.svg" crc="3847874802" mt="1510239452000"/>
+        <file name="out2.svg" crc="3899466144" mt="1510239452000"/>
+        <file name="Pasted.svg" crc="3789803851" mt="1510239452000"/>
+        <file name="Pasted2.svg" crc="35663006" mt="1510239452000"/>
+        <file name="Pasted3.svg" crc="4181002745" mt="1510239452000"/>
+        <file name="Pasted4.svg" crc="4274942365" mt="1510239452000"/>
+        <file name="phoe.svg" crc="300977039" mt="1510239452000"/>
+      </folder>
+      <file name="Untitled-2_edge.js" crc="508648869" mt="1510239452000"/>
+      <file name="Untitled-2.html" crc="404715425" mt="1510239452000"/>
+    </folder>
+    <folder name="untitled-6">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1508886468000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3781300168" mt="1508886468000"/>
+        <file name="Poster.png" crc="3781300168" mt="1508886468000"/>
+        <file name="1.svg" crc="3845177836" mt="1508886468000"/>
+        <file name="2.svg" crc="290640487" mt="1508886468000"/>
+        <file name="4.svg" crc="3787033962" mt="1508886468000"/>
+        <file name="5.svg" crc="200617974" mt="1508886468000"/>
+        <file name="6.svg" crc="3831240539" mt="1508886468000"/>
+        <file name="Pasted.svg" crc="3845812969" mt="1508886468000"/>
+        <file name="Pasted2.svg" crc="258256431" mt="1508886468000"/>
+        <file name="Pasted3.svg" crc="505345330" mt="1508886468000"/>
+        <file name="Pasted4.svg" crc="4276130559" mt="1508886468000"/>
+        <file name="Pasted5.svg" crc="4252311106" mt="1508886468000"/>
+        <file name="ruble.svg" crc="505345330" mt="1508886468000"/>
+      </folder>
+      <file name="Untitled-6_edge.js" crc="320639595" mt="1508886468000"/>
+      <file name="Untitled-6.html" crc="3875267587" mt="1508886468000"/>
+    </folder>
+    <folder name="untitled-32">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1508884195000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="78131782" mt="1508884195000"/>
+        <file name="Poster.png" crc="78131782" mt="1508884195000"/>
+        <file name="comp.svg" crc="139116065" mt="1508884195000"/>
+        <file name="comp2.svg" crc="3868031412" mt="1508884195000"/>
+        <file name="Pasted.svg" crc="3809821057" mt="1508884195000"/>
+        <file name="Pasted2.svg" crc="3963863713" mt="1508884195000"/>
+        <file name="Pasted3.svg" crc="3762222361" mt="1508884195000"/>
+        <file name="Pasted4.svg" crc="3847237007" mt="1508884195000"/>
+        <file name="Pasted5.svg" crc="28695988" mt="1508884195000"/>
+        <file name="Pasted6.svg" crc="6015631" mt="1508884195000"/>
+        <file name="Pasted7.svg" crc="533329497" mt="1508884195000"/>
+      </folder>
+      <file name="Untitled-3_edge.js" crc="3890597999" mt="1508884195000"/>
+      <file name="Untitled-3.html" crc="498531232" mt="1508884195000"/>
+    </folder>
+    <folder name="email">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1508885685000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="25589038" mt="1508885685000"/>
+        <file name="Poster.png" crc="25589038" mt="1508885685000"/>
+        <file name="arrow.svg" crc="3821923044" mt="1508885685000"/>
+        <file name="comp.svg" crc="4188557418" mt="1508885685000"/>
+        <file name="comp2.svg" crc="243412722" mt="1508885685000"/>
+        <file name="comp3.svg" crc="4045570433" mt="1508885685000"/>
+        <file name="konv1.svg" crc="3878646304" mt="1508885685000"/>
+        <file name="konv2.svg" crc="156258406" mt="1508885685000"/>
+        <file name="konv3.svg" crc="295033928" mt="1508885685000"/>
+        <file name="konv4.svg" crc="4137907528" mt="1508885685000"/>
+        <file name="konv5.svg" crc="49011934" mt="1508885685000"/>
+        <file name="konv6.svg" crc="23578226" mt="1508885685000"/>
+        <file name="konv7.svg" crc="536268977" mt="1508885685000"/>
+        <file name="konv8.svg" crc="365389999" mt="1508885685000"/>
+        <file name="konv9.svg" crc="384909312" mt="1508885685000"/>
+        <file name="krug.svg" crc="3893085372" mt="1508885685000"/>
+        <file name="map.svg" crc="513557835" mt="1508885685000"/>
+        <file name="map2.svg" crc="165846102" mt="1508885685000"/>
+        <file name="Pasted.svg" crc="368788507" mt="1508885685000"/>
+        <file name="Pasted2.svg" crc="3825744943" mt="1508885685000"/>
+        <file name="point.svg" crc="4258572617" mt="1508885685000"/>
+        <file name="points.svg" crc="320471393" mt="1508885685000"/>
+        <file name="round.svg" crc="67090172" mt="1508885685000"/>
+        <file name="round2.svg" crc="4059699059" mt="1508885685000"/>
+        <file name="round3.svg" crc="3825084293" mt="1508885685000"/>
+        <file name="wheel.svg" crc="3970553927" mt="1508885685000"/>
+      </folder>
+      <file name="email_edge.js" crc="241695682" mt="1508885685000"/>
+      <file name="email.html" crc="3912464366" mt="1508885685000"/>
+    </folder>
+    <folder name="untitled-3">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1508882318000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="4212909572" mt="1508882318000"/>
+        <file name="Poster.png" crc="4212909572" mt="1508882318000"/>
+        <file name="1tov.svg" crc="3761376718" mt="1508882318000"/>
+        <file name="22tov.svg" crc="387909637" mt="1508882318000"/>
+        <file name="2tov.svg" crc="246694097" mt="1508882318000"/>
+        <file name="3tov.svg" crc="41678349" mt="1508882318000"/>
+        <file name="4tov.svg" crc="4276975988" mt="1508882318000"/>
+        <file name="5tov.svg" crc="3771520833" mt="1508882318000"/>
+        <file name="6tov.svg" crc="145587012" mt="1508882318000"/>
+        <file name="click.svg" crc="172445387" mt="1508882318000"/>
+        <file name="click2.svg" crc="415733098" mt="1508882318000"/>
+        <file name="frame.svg" crc="467066730" mt="1508882318000"/>
+        <file name="hand.svg" crc="385585414" mt="1508882318000"/>
+        <file name="hand2.svg" crc="209945027" mt="1508882318000"/>
+        <file name="hand3.svg" crc="3913719006" mt="1508882318000"/>
+        <file name="hand4.svg" crc="219411747" mt="1508882318000"/>
+        <file name="hand5.svg" crc="4174489857" mt="1508882318000"/>
+        <file name="man.svg" crc="4166105379" mt="1508882318000"/>
+        <file name="Pasted.svg" crc="4195349488" mt="1508882318000"/>
+        <file name="r1.svg" crc="4242942450" mt="1508882318000"/>
+        <file name="r2.svg" crc="4105387733" mt="1508882318000"/>
+        <file name="r3.svg" crc="101096904" mt="1508882318000"/>
+        <file name="stat.svg" crc="3810061384" mt="1508882318000"/>
+        <file name="stat2.svg" crc="4071766493" mt="1508882318000"/>
+      </folder>
+      <file name="Untitled-3_edge.js" crc="3924934464" mt="1508882318000"/>
+      <file name="Untitled-3.html" crc="58057401" mt="1508882318000"/>
+    </folder>
+    <folder name="untitled-22">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1508882493000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="277307406" mt="1508882493000"/>
+        <file name="1.svg" crc="3928022478" mt="1508882493000"/>
+        <file name="2.svg" crc="3763975570" mt="1508882493000"/>
+        <file name="3.svg" crc="3781143991" mt="1508882493000"/>
+        <file name="4.svg" crc="398083167" mt="1508882493000"/>
+        <file name="5.svg" crc="3766456136" mt="1508882493000"/>
+        <file name="back.svg" crc="4034844859" mt="1508882493000"/>
+        <file name="click.svg" crc="3962094543" mt="1508882493000"/>
+        <file name="galka.svg" crc="212612821" mt="1508882493000"/>
+        <file name="hand.svg" crc="4183040267" mt="1508882493000"/>
+        <file name="kubok.svg" crc="4043831892" mt="1508882493000"/>
+        <file name="Pasted4.svg" crc="405830986" mt="1508882493000"/>
+        <file name="poleverh.svg" crc="3770578392" mt="1508882493000"/>
+        <file name="stat.svg" crc="130152213" mt="1508882493000"/>
+        <file name="text.svg" crc="4174351649" mt="1508882493000"/>
+        <file name="zvezdverh.svg" crc="19720736" mt="1508882493000"/>
+      </folder>
+      <file name="Untitled-2_edge.js" crc="351064179" mt="1508882493000"/>
+      <file name="Untitled-2.html" crc="198549654" mt="1508882493000"/>
+    </folder>
+    <folder name="untitled-5">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1508881660000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3772002831" mt="1508881660000"/>
+        <file name="Poster.png" crc="3772002831" mt="1508881660000"/>
+        <file name="back.svg" crc="145526035" mt="1508881660000"/>
+        <file name="galka.svg" crc="111339489" mt="1508881660000"/>
+        <file name="lin.svg" crc="4134573272" mt="1508881660000"/>
+        <file name="Pasted.svg" crc="3904230217" mt="1508881660000"/>
+        <file name="pen.svg" crc="285166934" mt="1508881660000"/>
+        <file name="stat.svg" crc="364509811" mt="1508881660000"/>
+      </folder>
+      <file name="Untitled-5_edge.js" crc="4110230785" mt="1508881660000"/>
+      <file name="Untitled-5.html" crc="3924366415" mt="1508881660000"/>
+    </folder>
+    <folder name="untitled-2">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4231652741" mt="1478047152000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1478047152000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="3776699394" mt="1478047152000"/>
+        <file name="Pasted.svg" crc="4055625433" mt="1478047152000"/>
+        <file name="Pasted10.svg" crc="457539051" mt="1478047152000"/>
+        <file name="Pasted11.svg" crc="457539051" mt="1478047152000"/>
+        <file name="Pasted12.svg" crc="461370331" mt="1478047152000"/>
+        <file name="Pasted13.svg" crc="80281647" mt="1478047152000"/>
+        <file name="Pasted14.svg" crc="517037465" mt="1478047152000"/>
+        <file name="Pasted15.svg" crc="329360463" mt="1478047152000"/>
+        <file name="Pasted16.svg" crc="500100481" mt="1478047152000"/>
+        <file name="Pasted17.svg" crc="180485665" mt="1478047152000"/>
+        <file name="Pasted18.svg" crc="142118549" mt="1478047152000"/>
+        <file name="Pasted19.svg" crc="244165089" mt="1478047152000"/>
+        <file name="Pasted2.svg" crc="19097391" mt="1478047152000"/>
+        <file name="Pasted20.svg" crc="3928888511" mt="1478047152000"/>
+        <file name="Pasted21.svg" crc="3800005691" mt="1478047152000"/>
+        <file name="Pasted22.svg" crc="26439480" mt="1478047152000"/>
+        <file name="Pasted23.svg" crc="9159147" mt="1478047152000"/>
+        <file name="Pasted24.svg" crc="45396925" mt="1478047152000"/>
+        <file name="Pasted25.svg" crc="4189949265" mt="1478047152000"/>
+        <file name="Pasted26.svg" crc="178412341" mt="1478047152000"/>
+        <file name="Pasted27.svg" crc="398344311" mt="1478047152000"/>
+        <file name="Pasted28.svg" crc="378100513" mt="1478047152000"/>
+        <file name="Pasted29.svg" crc="199289957" mt="1478047152000"/>
+        <file name="Pasted3.svg" crc="5925391" mt="1478047152000"/>
+        <file name="Pasted30.svg" crc="4200064825" mt="1478047152000"/>
+        <file name="Pasted4.svg" crc="289016206" mt="1478047152000"/>
+        <file name="Pasted5.svg" crc="155787822" mt="1478047152000"/>
+        <file name="Pasted6.svg" crc="133517882" mt="1478047152000"/>
+        <file name="Pasted7.svg" crc="4010379595" mt="1478047152000"/>
+        <file name="Pasted8.svg" crc="3875631879" mt="1478047152000"/>
+        <file name="Pasted9.svg" crc="4022697110" mt="1478047152000"/>
+      </folder>
+      <file name="Untitled-2_edge.js" crc="161580163" mt="1478047152000"/>
+      <file name="Untitled-2_edgeActions.js" crc="3895065628" mt="1478047152000"/>
+      <file name="Untitled-2_edgePreload.js" crc="3881189239" mt="1478047152000"/>
+      <file name="Untitled-2.html" crc="283094016" mt="1478047152000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <file name="index.html" crc="277420242" seo="true" mt="1510262107897" redirect="true"/>
+</manifest>
