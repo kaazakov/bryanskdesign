@@ -1,0 +1,43 @@
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="144.6px" height="272.8px" viewBox="0 0 144.6 272.8" style="enable-background:new 0 0 144.6 272.8;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+</style>
+<defs>
+</defs>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="29.3984" y1="171.9392" x2="140.8205" y2="79.7221">
+			<stop  offset="0" style="stop-color:#416AB2"/>
+			<stop  offset="0.4233" style="stop-color:#388CCC"/>
+			<stop  offset="1" style="stop-color:#445396"/>
+		</linearGradient>
+		<path class="st0" d="M12,0h120.6c6.6,0,12,5.4,12,12v248.8c0,6.6-5.4,12-12,12H12c-6.6,0-12-5.4-12-12V12C0,5.4,5.4,0,12,0z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="71.2484" y1="237.8992" x2="71.6941" y2="116.2358">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#D6EFF7"/>
+		</linearGradient>
+		<rect x="10.8" y="23.5" class="st1" width="121.7" height="217.7"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="63.3363" y1="257.0138" x2="81.2973" y2="257.0138">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#D6EFF7"/>
+		</linearGradient>
+		<circle class="st2" cx="72.3" cy="257" r="9"/>
+	</g>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="21.322" y1="100.9885" x2="94.6433" y2="149.0759">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<polygon class="st3" points="16.9,30.4 16.9,236.1 55.8,236 124.1,30.4 	"/>
+</g>
+</svg>
