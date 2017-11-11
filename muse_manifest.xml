@@ -1,11 +1,16 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anim.bryanskdesign.site" resolutions="1x" timestamp="1510262209457">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anim.bryanskdesign.site" resolutions="1x" timestamp="1510278855185">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3771185006" ref="index"/>
+    <file name="index.css" crc="294748538" ref="index"/>
+    <file name="nomq_index.css" crc="4003637104" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="playfairdisplayregular.woff" crc="84960981"/>
-    <file name="playfairdisplayregular.eot" crc="169932609"/>
+    <file name="futurafuturislight.woff" crc="4037831048"/>
+    <file name="futurafuturislight.eot" crc="227235770"/>
+    <file name="futurafuturislight.svg" crc="3895353273"/>
+    <file name="futurafuturismedium.woff" crc="3887423742"/>
+    <file name="futurafuturismedium.eot" crc="431881642"/>
+    <file name="futurafuturismedium.svg" crc="4213959665"/>
   </folder>
   <folder name="assets">
     <folder name="strategia">
@@ -279,7 +284,18 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="172512987" ref="index"/>
     <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
     <file name="require.js" crc="4159430777" ref="index"/>
   </folder>
-  <file name="index.html" crc="277420242" seo="true" mt="1510262107897" redirect="true"/>
+  <folder name="images">
+    <file name="вставленное изображение 600x60021x21.png" crc="242288600" seo="true" ref="index"/>
+    <file name="вставленное изображение 600x60017x18.png" crc="196347605" seo="true" ref="index"/>
+    <file name="вставленное изображение 600x60020x21.png" crc="158682269" seo="true" ref="index"/>
+    <file name="вставленное изображение 600x60018x18.png" crc="504472899" seo="true" ref="index"/>
+    <file name="вставленное изображение 600x600-crop-u1637.png" crc="117651690" ref="index"/>
+    <file name="вставленное изображение 600x60024x24.png" crc="3956864009" seo="true" ref="index"/>
+    <file name="вставленное изображение 600x60018x19.png" crc="504472899" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="298420459" seo="true" mt="1510278774736" redirect="true"/>
 </manifest>
