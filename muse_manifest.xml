@@ -1,7 +1,16 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="33333.ru" resolutions="1x" timestamp="1510260980016">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anim.bryanskdesign.site" resolutions="1x" timestamp="1510360810301">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="228655048" ref="index"/>
+    <file name="index.css" crc="3823664792" ref="index"/>
+    <file name="nomq_index.css" crc="3763638039" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="futurafuturislight.woff" crc="4037831048"/>
+    <file name="futurafuturislight.eot" crc="227235770"/>
+    <file name="futurafuturislight.svg" crc="3895353273"/>
+    <file name="futurafuturismedium.woff" crc="3887423742"/>
+    <file name="futurafuturismedium.eot" crc="431881642"/>
+    <file name="futurafuturismedium.svg" crc="4213959665"/>
   </folder>
   <folder name="assets">
     <folder name="strategia">
@@ -275,7 +284,9 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="172512987" ref="index"/>
     <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
     <file name="require.js" crc="4159430777" ref="index"/>
   </folder>
-  <file name="index.html" crc="4200388285" seo="true" mt="1510242997572" redirect="true"/>
+  <folder name="images"/>
+  <file name="index.html" crc="4163217876" seo="true" mt="1510360708760" redirect="true"/>
 </manifest>
